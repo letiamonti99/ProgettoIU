@@ -1,0 +1,156 @@
+html {
+    height: 100%;
+}
+
+body {
+    padding:0% !important;
+    text-align: center;
+    font-family: 'Poppins';
+    background-color: #F9EAC4;
+    align-items: center;
+    height: 100%;
+}
+
+header{
+    background-color: #E01D3A;
+    padding-top: 1%;
+    padding-bottom: 0%;
+}
+
+header h1{
+    color: #FFCA3E;
+    letter-spacing: 10px;
+    font-family: Patua One;
+
+}
+
+.navigazione {
+    display: inline-block;
+    padding: 0.5% 4% 0.5% 4%;
+    background-color: #E01D3A;
+    color: black;
+    font-size: 20px;
+}
+
+.navigazione:hover {
+    text-decoration: none;
+    background-color:#F9EAC4;
+    border-radius: 6px 6px 0px 0px;  
+    color: black;
+}
+
+.active {
+    color:black;
+    background-color: #F9EAC4;
+    border-radius: 6px 6px 0px 0px;  
+}
+
+h2{
+    padding-top: 1%;
+    font-family: "Play Fair Display";
+}
+
+hr {
+    width: 1000px;
+    size: 1;
+    color:#E01D3A;
+}
+
+img {
+    object-fit: cover;
+    margin-left: 2%;
+    margin-right: -10px;
+    padding-right: 0px;
+    padding-top: 4%;
+}
+
+#Film1{
+    margin-bottom: 2%; 
+    width: auto;
+}
+
+#hsm1{
+    height: 349px;
+    width: 236px;
+}
+
+#scheda-tecnica{
+    text-align: left;
+    padding-left: 4% ;
+    padding-bottom: 1%;
+    padding-top: 15%;
+}
+
+.left {
+    float: left;
+    padding-left: 0%;
+}
+
+#icon{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#music{
+    padding-bottom: 1%;
+    font-family: "Play Fair Display";
+}
+
+#trama {
+    padding-top: 1%;
+    font-family: "Play Fair Display";
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.testo-trama {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#curiosità{
+    padding-top: 1%;
+    font-family: "Play Fair Display";
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.testo-curiosità{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-bottom: 0%;
+    margin-top: 11%;
+    background-color: #E01D3A;
+    color:white;
+}
+
+#documenti{
+    text-align: center;
+    padding-bottom: 2%;
+    color: white;
+    padding-left: 2%;
+}
+
+#documenti:hover {
+    font-weight: bold;
+}
+
+.icone {
+    padding-right: 1%;
+}
+
+#Instagram{
+    text-decoration:none;
+    color:white;
+    font-family:"Poppins";
+}
+
+#Instagram:hover {
+    color:white;
+    font-weight: bold ;
+}

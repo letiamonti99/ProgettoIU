@@ -1,0 +1,127 @@
+
+body {
+    padding:0% !important;
+    text-align: center;
+    font-family: 'Poppins';
+    background-color: #F9EAC4;
+    align-items: center;
+    height: 100%;
+}
+
+header{
+    background-color: #E01D3A;
+    padding-top: 1%;
+    padding-bottom: 0%;
+}
+
+header h1{
+    color: #FFCA3E;
+    letter-spacing: 10px;
+    font-family: Patua One;
+
+}
+
+.navigazione {
+    display: inline-block;
+    padding: 0.5% 4% 0.5% 4%;
+    background-color: #E01D3A;
+    color: black;
+    font-size: 20px;
+}
+
+.navigazione:hover {
+    text-decoration: none;
+    background-color:#F9EAC4;
+    border-radius: 6px 6px 0px 0px;  
+    color: black;
+}
+
+.active {
+    color:black;
+    background-color: #F9EAC4;
+    border-radius: 6px 6px 0px 0px;  
+}
+
+.carousel .inline-block{ 
+    height: 600px;
+    margin-right: -5px;
+    width: 100%;
+}
+
+
+#presentazione {
+    padding: 2% 2%;
+    font-weight: 400;
+    font-size: 1.3em;
+}
+
+h2{
+    background-color: #E01D3A;
+    color: #FFCA3E;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: Patua One;
+    font-size: 2.5em;
+}
+
+.canzoni {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+
+#riga1 {
+    padding-bottom: 3%;
+}
+
+#riga2{
+    padding-bottom: 3%;
+}
+
+.didascalia {
+    color:black;
+    text-decoration: none;
+    padding-left: 0%;
+}
+
+.didascalia:hover {
+    color:black;
+    font-weight: bold;
+}
+
+footer{
+    padding-top: 3%;
+    padding-bottom: 0%;
+    background-color: #E01D3A;
+    color: white;
+}
+
+#documenti{
+    text-align: center;
+    padding-bottom: 2%;
+    color: white;
+    padding-left: 2%;
+}
+
+#documenti:hover {
+    font-weight: bold;
+}
+
+.icone {
+    padding-right: 1%;
+}
+
+#Instagram{
+    text-decoration:none;
+    color:white;
+    font-family:"Poppins";
+}
+
+#Instagram:hover {
+    color:white;
+    font-weight: bold ;
+}
+
+
